@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navDailyGoal"
+        android:icon="@drawable/ic_baseline_star_24"
+        android:title="@string/menuDailyGoals" >
+        <menu>
+            <item
+                android:id="@+id/dailyViewGoals"
+                android:title="@string/menuViewGoals" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/navAbout"
+        android:icon="@drawable/ic_baseline_info_24"
+        android:title="@string/menuAbout" />
+    <item
+        android:id="@+id/navContactUs"
+        android:icon="@drawable/ic_baseline_mail_24"
+        android:title="@string/menuContactUs" />
+    <item
+        android:id="@+id/navSettings"
+        android:icon="@drawable/ic_baseline_settings_24"
+        android:title="@string/menuSettings" />
+    <item
+        android:id="@+id/navHelp"
+        android:icon="@drawable/ic_baseline_help_24"
+        android:title="@string/menuHelp" />
+    <item
+        android:id="@+id/navSignOut"
+        android:title="@string/menuSignOut"
+        android:icon="@drawable/ic_baseline_power_settings_new_24"/>
+</menu>

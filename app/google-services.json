@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "645989042252",
+    "project_id": "weightloss-pathway-project",
+    "storage_bucket": "weightloss-pathway-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645989042252:android:5a33386cb25803a4f14ce9",
+        "android_client_info": {
+          "package_name": "com.example.weightloss_pathway_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "645989042252-g7pbuckimu09a0qshgcq0pe81878svhn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK9MwbDUw87pL1-CQd8Kzo8_Ege2KWIV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "645989042252-g7pbuckimu09a0qshgcq0pe81878svhn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

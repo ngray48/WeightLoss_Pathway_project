@@ -1,0 +1,122 @@
+<resources>
+    <string name="app_name">WeightLoss</string>
+    <string name="title_activity_weekly">weeklyActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <!-- Login -->
+    <string name="loginWelcome">"Welcome to Your Weight Loss Pathway!"</string>
+    <string name="loginUsername">"Username:"</string>
+    <string name="loginPassword">"Password:"</string>
+    <string name="loginSignIn">"Sign In"</string>
+    <string name="loginCreateAccount">"Create Account"</string>
+    <string name="loginImageDescription">"ImgHeader"</string>
+    <string name="loginEmail">"Email"</string>
+    <string name="loginFacebook">"Facebook"</string>
+    <string name="loginGoogle">"Google"</string>
+    <!-- main -->
+    <string name="mainMotivation">"REMEMBER why you do what you do!"</string>
+    <string name="MainDrawer">"Main Drawer"</string>
+    <string name="mainDynamicName">"Welcome, %s"</string>
+    <string name="mainSetGoal">"Set New Goals"</string>
+    <!-- nav -->
+    <string name="NavHeaderTitle">"This is the home page"</string>
+    <!-- menu -->
+    <string name="menuDailyGoals">"Daily Goals"</string>
+    <string name="menuSettings">"Settings"</string>
+    <string name="menuAbout">"Learn More"</string>
+    <string name="menuMonday">"Monday"</string>
+    <string name="menuTuesday">"Tuesday"</string>
+    <string name="menuWednesday">"Wednesday"</string>
+    <string name="menuThursday">"Thursday"</string>
+    <string name="menuFriday">"Friday"</string>
+    <string name="menuSaturday">"Saturday"</string>
+    <string name="menuSunday">"Sunday"</string>
+    <string name="menuSignOut">"Sign Out"</string>
+    <string name="menuContactUs">"Contact Us!"</string>
+    <string name="menuViewGoals">"View Goals"</string>
+    <string name="menuHelp">"Help"</string>
+    <!-- create_user -->
+    <string name="createNext">"Next"</string>
+    <string name="createCancel">"Cancel"</string>
+    <string name="createGetFirstAndLastName">"Let's get to know you a little better!"</string>
+    <string name="createFirstName">"First Name"</string>
+    <string name="createLastName">"Last Name"</string>
+    <string name="createGetContactInfo">"Communication will be key in our success along this new Adventure!  We'll just need a few details from you!"</string>
+    <string name="createStreet">"Street"</string>
+    <string name="createCity">"City"</string>
+    <string name="createZip">"Zip Code"</string>
+    <string name="createStateDropDown">"State Drop Down"</string>
+    <string name="createPhone">"Phone"</string>
+    <string name="createEmail">"Email"</string>
+    <string name="createGetCredentials">"Create a Username and Password"</string>
+    <string name="createUsername">"Username"</string>
+    <string name="createPassword">"Password"</string>
+    <string name="createFinish">"Finish"</string>
+    <string name="createDate">"Birth Date"</string>
+    <string name="createCalendarBtn">"Calendar Button"</string>
+    <!-- about -->
+    <string name="aboutBrookeDesc">"This application is designed to help aid you in your weight loss and wellness journey.  Finding your Why: Ask yourself why you are choosing this path for yourself. Ask this question over and over again until you cannot answer it more completely. Your why should be more than just “I want to lose weight”. It should have deeper meaning than that." </string>
+    <string name="aboutBrookeIntro">"WeightLoss Pathway is brought to you by Brooke McCartney WeightLoss Ltd." </string>
+    <string name="aboutBrookeTitle">"Brooke’s Office Hours" </string>
+    <string name="aboutBrookeHours">"Monday - Thursday            7 am - 4 pm   CST Friday                      7 am - Noon    CST            Contact Brooke for additional hours or one on one training and coaching sessions." </string>
+    <string name="aboutBrookeImgDesc">"Picture of Brooke" </string>
+    <!-- weekly -->
+    <string name="weeklyWelcome">"Client Personal Goals" </string>
+    <string name="weeklyNutritionalHeader">"Nutritional Goals" </string>
+    <string name="weeklyFitnessHeader">"Fitness Goals" </string>
+    <string name="weeklyGoalOne">"Goal 1" </string>
+    <string name="weeklyGoalTwo">"Goal 2" </string>
+    <string name="weeklyGoalThree">"Goal 3" </string>
+    <string name="weeklyGoalFour">"Goal 4" </string>
+    <string name="weeklyDate">"Choose Date" </string>
+    <string name="weeklyModeSpinner">"Spinner Mode Selection" </string>
+    <string name="weeklyIntensitySpinner">"Spinner Intensity Selection" </string>
+    <string name="weeklyDurationSpinner">"Spinner Duration Selection" </string>
+    <string name="weeklyMenu">"Menu" </string>
+    <string name="weeklySubmit">"Submit" </string>
+    <!-- firebase -->
+    <string name="fireImgDescription">"FireBase Chat Service" </string>
+    <string name="fireInput">"Input" </string>
+    <string name="title_activity_weekly_tab">WeeklyTab</string>
+    <!-- Tabs -->
+    <string name="tabMonday">"Mon" </string>
+    <string name="tabTuesday">"Tue" </string>
+    <string name="tabWednesday">"Wed" </string>
+    <string name="tabThursday">"Thu" </string>
+    <string name="tabFriday">"Fri" </string>
+    <string name="tabSaturday">"Sat" </string>
+    <string name="tabSunday">"Sun" </string>
+    <!-- Weekly Tabs -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="TabDescription">"Days of the weeks tabs"</string>
+    <string name="AdapterTab">"View"</string>
+    <string name="weeklyTabFloating">"Mail floating action button"</string>
+    <string name="weeklyTabDateTxt">"Date Selection"</string>
+    <string name="weeklyTabSubmit">"Submit"</string>
+    <!-- GoalsWeekly -->
+    <string name="personalizeGoalWeekly">Personal Goal</string>
+    <string name="personalizeGoalWeeklyBack">Back</string>
+    <string name="personalizeGoalWeeklyViewGoals">Update Goals</string>
+    <!-- PlanningGoals -->
+    <string name="planToComplete">How will you complete this goal?</string>
+    <string name="planToOvercome">How will you overcome any obstacles?</string>
+    <string name="Overcome">Overcoming</string>
+    <string name="Complete">Complete</string>
+    <string name="planGoal">Add Plan</string>
+    <!-- Settings -->
+    <string name="chooseColor">Theme Color</string>
+</resources>
